@@ -32,8 +32,7 @@ Import the aggregated data into Tableau.
 Develop interactive visualizations to represent the funnel stages and metrics.
 Compile the visualizations into a cohesive Tableau story.
 Link to Tableau Story: https://public.tableau.com/shared/6YQPPYWD4?:display_count=n&:origin=viz_share_link
-Project Structure
-The project is organized into the following directories:
+
 
 Tools and Technologies
 
