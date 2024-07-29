@@ -1,11 +1,12 @@
 Metrocar Customer Funnel Analysis Project
+
 Project Overview
-This project aims to analyze the customer funnel of Metrocar, a ride-sharing app similar to Uber and Lyft, to identify areas for improvement and optimization. By examining the customer journey from initial engagement to ride completion, we hope to uncover insights that can help enhance user experience, increase conversion rates, and drive overall growth for the platform.
+This project aims to analyze the customer funnel of Metrocar, a ride-sharing app similar to Uber and Lyft, to identify areas for improvement and optimization. By examining the customer journey from initial engagement to ride completion, we aim to uncover insights that can enhance user experience, increase conversion rates, and drive overall growth for the platform.
 
 Objectives
-Understand the Customer Journey: Map out the steps a user takes from downloading the app to booking a ride.
+Understand the Customer Journey: Map out the steps a user takes from downloading the app to book a ride.
 Identify Bottlenecks: Locate stages where users drop off or face difficulties.
-Optimize Conversion Rates: Propose strategies to improve the conversion rates at various stages of the funnel.
+Optimize Conversion Rates: Propose strategies to improve the conversion rates at various funnel stages.
 Enhance User Experience: Suggest improvements to the app's design and functionality based on user behavior analysis.
 Project Stages
 
